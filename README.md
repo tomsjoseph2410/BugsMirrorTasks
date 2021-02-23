@@ -1,4 +1,4 @@
 # BugsMirrorTasks
 
 Task 1
-Creating a Tic-tac-toe app 
+Creating a Tic-tac-toe app Using Python
