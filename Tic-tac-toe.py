@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import messagebox
 
 root = Tk()
-root.title(" TOMS JOSEPH ")
+root.title(" TICK-TAC-TOE - BUGSMIRROR_TASKS")
 
 clicked = True
 count = 0
@@ -166,7 +166,7 @@ def b_click(b):
         count += 1
         check()
     else:
-        messagebox.showerror("Tic tac toe", "yoyo dont do that")
+        messagebox.showerror("Tic tac toe", "yoyo YOU CANT dont do that")
 
 
 b1 = Button(root,
